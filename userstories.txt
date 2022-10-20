@@ -1,0 +1,6 @@
+A patient information system to support covid healthcare is a medical 
+information system that maintains information about patients suffering from 
+covid health problem and treatment that they have received.
+help software teams in developing a website with merging hospitals , doctors,
+patient, importantly providing a safer environment for healthcare workers 
+with telemedicine and dedicated customer support.
